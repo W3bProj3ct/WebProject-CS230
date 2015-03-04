@@ -1,0 +1,28 @@
+h1{
+	font-family: sans-serif;
+	color: #FFFFFF;
+	font-size:30px;
+	background-color:#660000;
+}
+.emrg{
+	font-family: sans-serif;
+	color:#FF0000;
+	font-weight:bold;
+	font-size:14px;
+}
+h2{
+	color:#660000;
+	font-weight:bold;
+	font-size:25px;
+}
+
+.sml{
+	font-size:11px
+
+}
+
+body{
+    border-style: solid;
+    border-width: 1px;
+	padding: 7px;	
+}
