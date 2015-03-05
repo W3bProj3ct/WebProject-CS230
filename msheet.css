@@ -1,0 +1,28 @@
+h1{
+	font-family: sans-serif;
+	color: #FFFFFF;
+	font-size:30px;
+	background-color:#7C8B9B;
+}
+html{
+	background-color:#FFFFFF;
+
+}
+.fq{
+	padding-left: 30px;
+
+}
+
+.pf{
+	font-family: sans-serif;
+	color:#59452A;
+
+}
+
+body{
+	background-color:#E5EBDF;
+    border-style: solid;
+    border-width: 1px;
+	padding: 7px;	
+	border-color:#808080;
+}
