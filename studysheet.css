@@ -1,6 +1,6 @@
 h1{
 	
-	color: #FFFFFF;
+	color: #FFFFF0;
 	font-size:28px;
 	margin-top:7px;
 	margin-right:10px;
@@ -35,17 +35,16 @@ h2{
 
 .sml{
 	font-size:11px;
-	line-height: 130%;
+	line-height: 30%;
 	margin-left:20px;
 }
-.sml:nth-child(2){
-	font-size:11px;
-	line-height: 130%;
-	margin-left:80px;
+.fly{
+	text-align:right;
+	line-height: 30%;
 }
 
 body{
-	
+	background-color:#FFFFF0;
 	margin-top:0px;
     border-style: solid;
     border-width: 1px;
@@ -58,4 +57,5 @@ body{
 
 html{
 	font-family: Tahoma;
+	background-color:#FFFFFF;
 }
