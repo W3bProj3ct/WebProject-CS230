@@ -2,16 +2,18 @@ h1{
 	
 	color: #FFFFFF;
 	font-size:28px;
+	margin-top:7px;
+	margin-right:10px;
 	background-color:#660000;
 }
 
 .test{
 	font-size:14px;
+	line-height: 130%;
 }
 
 .emrg{
-	font-family: sans-serif;
-	color:#CC0000;
+	color:#FF0000;
 	font-weight: 700;
 	font-size:14px;
 }
@@ -22,6 +24,8 @@ h2{
 	color:#660000;
 	font-weight:bold;
 	font-size:22px;
+	margin-top:20px;
+	margin-bottom:20px;
 }
 
 .sml{
@@ -30,9 +34,15 @@ h2{
 }
 
 body{
+	
+	margin-top:0px;
     border-style: solid;
     border-width: 1px;
-	padding: 7px;	
+	padding-left: 7px;
+	padding-right: 0px;
+	padding-top:0px;
+	width:491px;
+	height:680px;	
 }
 
 html{
