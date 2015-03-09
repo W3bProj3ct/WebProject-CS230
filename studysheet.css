@@ -7,7 +7,12 @@ h1{
 	background-color:#660000;
 }
 
-.test{
+.test1{
+	font-size:14px;
+	line-height: 119%;
+}
+
+.test2{
 	font-size:14px;
 	line-height: 130%;
 }
@@ -29,8 +34,8 @@ h2{
 }
 
 .sml{
-	font-size:11px
-
+	font-size:11px;
+	line-height: 130%;
 }
 
 body{
