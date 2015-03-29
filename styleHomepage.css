@@ -1,0 +1,70 @@
+header {
+    background-color:#6699FF;
+    color:white;
+    text-align:right;
+	position:fixed;
+	width:100%;
+	height:70px;
+	top:0;
+	left:0;
+	font-family:calibri, sans-serif;
+	font-size:20px;
+	z-index:1;
+}
+
+#logo{
+	float:left;
+	width:20%
+}
+#heading{
+	float:right;
+	width:80%;
+}
+
+body{
+	background-color:#F3EBF3;
+	font-family:calibri;
+	}
+	
+#mainMenu{
+	line-height:30px;
+    background-color:white;
+    width:15%;
+    float:left;
+	display:inline;
+	margin:60px 20px 10px 0px;
+	position:fixed;
+    padding:5px;	
+	top:20px;
+	bottom:0;
+	left:0;
+	font-family:calibri;
+	font-weight:bold;
+}
+
+#mainMenu ul{
+	list-style:none;
+}
+#mainMenu a{
+	text-decoration:none;
+
+}
+
+#content{
+	float:right;
+	width:80%;
+	padding-top:10%;
+	padding-bottom:10%;
+}
+
+footer {
+    background-color:#6699FF;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:2px; 
+	position:fixed;
+	bottom:0;
+	left:0;
+	right:0;
+}
