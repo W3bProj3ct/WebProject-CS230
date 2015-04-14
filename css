@@ -1,0 +1,112 @@
+header {
+    background-color:#000000;
+    color:white;
+    text-align:right;
+	position:fixed;
+	width:100%;
+	height:86px;
+	top:0;
+	left:0;
+	font-family:calibri, sans-serif;
+	font-size:20px;
+	z-index:1;
+}
+
+#logo{
+	float:left;
+	width:20%
+}
+
+#heading{
+	float:right;
+	width:9%;
+	padding-right: 40px;
+	padding-top:1px;
+	text-decoration:none;
+	border-left:2px solid black;
+	height:83px;
+}
+
+#heading a {
+	text-decoration:none;
+	color: #fff;
+	background-color: #b9090b;
+}
+
+#heading a:hover {
+	color : #000000;
+}
+
+
+
+
+body{
+	background-color:#e1e1e1;
+	font-family:calibri;
+}
+
+
+
+	
+#mainMenu{
+	background-color:#6b6764;
+    width:15%;
+    float:left;
+	border-right:2px solid black;
+	font-weight:bold;
+	font-family:calibri;
+	position:fixed;
+	height:100%;
+	left:0;
+}
+
+#mainMenu ul{
+
+	list-style-type:none;
+	padding-top:100px;
+}
+
+#mainMenu ul li {
+		width:110px;
+		background: #6b6764;
+		padding: 15px;
+		border-top: 2px solid #000000;
+		padding-bottom:20px;
+}
+#mainMenu ul li a{
+			color : #000000;
+			text-decoration: none;
+			font size:1em;
+			text-transform: uppercase;
+			text-shadow: 0 0 1px rgba(0,0,0,.1);
+
+}
+#mainMenu ul li a:hover {
+			
+			color:#fff;
+			margin-left: 2px;
+}
+	
+
+
+	
+#content{
+	float:right;
+	width:80%;
+	padding-top:10%;
+	padding-bottom:10%;
+}
+
+footer {
+    background-color:#b9090b;
+    color:#000000;
+    clear:both;
+    text-align:center;
+    padding:2px; 
+	bottom:0;
+	left:0;
+	right:0;
+	border:1px solid black;
+	width:100%;
+	bottom:0px;
+}
