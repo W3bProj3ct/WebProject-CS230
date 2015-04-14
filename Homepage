@@ -1,0 +1,64 @@
+<!doctype html>
+<html>
+		<meta charset="UTF-8"/>
+<head>
+	<link type="text/css" rel = "stylesheet" href = "styleHomepage.css"/>
+	<link rel="shortcut icon" href="K.ico"/>
+	
+	<title>Click Flicks</title>
+</head>
+
+<body>
+	<header>
+		
+		<div id = logo>
+
+		<a href=Homepage.html alt="Click Flicks" title="Click Flicks"><img src ="images/logo5.png"></a>
+		
+		</div>
+		
+		<div id = heading>
+			<a href=signIn.html alt="Sign in" title="Sign in"><h2> Sign in </h2></a>
+		</div>
+		
+		
+	</header>
+
+	<div id = "mainMenu">
+		<ul>
+		<li><a href=Homepage.html >Home</a></li>
+		<li><a href=Popular.html>Most Popular</a></li>
+		<li><a href=newMovies.html>New</a></li>
+		<li><a href=Genre.html >Genre</a></li>
+		<li><a href=?.html >Rating</a></li>
+		</ul>
+	</div>
+
+	<section id=content>
+	
+		<table>
+		<h2>Trending</h2><tr>
+			<td> <a href=Description.html ><img class=grid src="images/m1.jpg" alt="My Picture" ></a> </td>
+			<td> <img class=grid src="images/m2.jpg" alt="My Picture" > </td>
+			<td> <img class=grid src="images/m3.jpg" alt="My Picture" > </td>
+			<td> <img class=grid src="images/m4.jpg" alt="My Picture" > </td>
+		</tr></table>
+		<table>
+		<h2>New </h2><tr>
+			<td> <img class=grid src="images/m5.jpg" alt="My Picture" > </td>
+			<td> <img class=grid src="images/m6.jpg" alt="My Picture" > </td>
+			<td> <img class=grid src="images/m7.jpg" alt="My Picture" > </td>
+			<td> <img class=grid src="images/m8.jpg" alt="My Picture" > </td>
+		</tr>
+		</table>
+	</section>
+
+
+<hr/>
+<footer>
+	<p>Copyright &copy ... Revised 28/03/2015</p>
+</footer>
+
+
+</body>
+</html>
